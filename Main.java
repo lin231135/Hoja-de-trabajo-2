@@ -4,7 +4,13 @@ import java.io.IOException;
 
 /**
  * Clase principal que contiene el método main para ejecutar la aplicación.
+ * Esta clase lee expresiones matemáticas desde un archivo de texto, las evalúa utilizando una calculadora postfix,
+ * y muestra los resultados.
+ *
+ * @author Javier Linares - 231135
+ * @author Daniel Chet - 231177
  */
+
 public class Main {
 
     /**
